@@ -12,5 +12,5 @@ yarn start
 
 ### Compiles and minifies for production
 ```
-yarn build
+yarn build 
 ```
